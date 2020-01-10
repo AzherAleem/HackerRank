@@ -8,7 +8,8 @@ namespace HankerRank
     {
         static long aVeryBigSum(long[] ar)
         {
-            long sum = 0;
+            //testing git
+			long sum = 0;
             for(int i = 0; i < ar.Length; i++)
             {
                 sum += ar[i];
